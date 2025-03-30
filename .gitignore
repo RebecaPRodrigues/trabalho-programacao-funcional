@@ -1,0 +1,12 @@
+# Ignora arquivos compilados
+/bin/
+/*.class
+
+# Ignora configurações de IDE
+*.iml
+.idea/
+.vscode/
+
+# Ignora arquivos temporários
+*.log
+*.tmp
