@@ -64,3 +64,4 @@ Todos os testes foram executados e aprovados com sucesso utilizando o comando:
 ```bash
 java -jar lib/junit.jar -cp bin --scan-classpath
 ```
+> *Nota:* A classe de testes `GerenciadorTarefasTest` foi desenvolvida com o auxílio do ChatGPT, utilizado como ferramenta de apoio para entender a sintaxe e estrutura dos testes automatizados com JUnit 5. A lógica dos testes foi validada e adaptada pelos integrantes da equipe.
